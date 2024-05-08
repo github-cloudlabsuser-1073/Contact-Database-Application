@@ -11,5 +11,7 @@ namespace CRUD_application_2.Models
         public string Name { get; set; }
         public string Email { get; set; }
 
+        public int Age { get; set; }
+
     }
 }
